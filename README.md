@@ -2,7 +2,7 @@
 
  Basic template for 3DS theme with Anemone3DS.
 
- ⚠️ Careful, preview is't pixel perfect about 3DS!
+ ⚠️ Careful, preview isn't pixel perfect about 3DS!
 
 ### Main preview
 
